@@ -2,6 +2,8 @@
 
 Full-stack and mobile developer studying Informatics at Universitas Multimedia Nusantara, Indonesia (GPA 3.80, class of 2028). I build products end to end, from the database and payment flow to the screen a customer taps.
 
+🌐 **Portfolio:** [altodev.me](https://altodev.me)
+
 **Open to Software Engineering internships** in full-stack or mobile development, remote or on-site.
 
 #### What I've built
@@ -22,4 +24,4 @@ Full-stack and mobile developer studying Informatics at Universitas Multimedia N
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/altodev/) · altodev20@gmail.com
+[Portfolio](https://altodev.me) · [LinkedIn](https://www.linkedin.com/in/altodev/) · altodev20@gmail.com
