@@ -15,7 +15,7 @@ Full-stack and mobile developer studying Informatics at Universitas Multimedia N
 | [**ReLa**](https://github.com/AltoDevv/rela-submission) | Hackathon app that pairs elderly people living alone with verified volunteers. I built the backend, volunteer matching and a Gemini pipeline (88.6% accuracy on test stories). | Flutter · Supabase · PostgreSQL · Gemini |
 | [**Food & Diabetes Risk App**](https://github.com/AltoDevv/food-diabetes-risk-app) | Recognises food from a photo and rates its sugar against WHO limits. I owned app integration and its 25 automated tests. | Python · Streamlit · TensorFlow |
 | [**Mahjong Score**](https://github.com/AltoDevv/mahjong-score) | Android app that does the counting for Mahjong beginners. Point the camera at 14 tiles and two on-device models (YOLOX-Tiny + MobileNetV3) recognise them and explain the hand; games are saved per account in Supabase, backed by 100 unit tests. Built in a team of 4. | Kotlin · Jetpack Compose · Supabase · ONNX Runtime |
-| [**Mood Classifier**](https://github.com/MikaelGeraldius/mood-classifier) | Machine learning final project: predicts a song's mood (sad, happy, energetic or calm) from 9 Spotify audio features, trained on 278,000 songs with a Random Forest at 92.28% accuracy. Built in a team of 5. | Python · scikit-learn · React |
+| [**Mood Classifier**](https://github.com/AltoDevv/mood-classifier) | Machine learning final project: predicts a song's mood (sad, happy, energetic or calm) from 9 Spotify audio features, trained on 278,000 songs with a Random Forest at 92.28% accuracy. Built in a team of 5. | Python · scikit-learn · React |
 
 #### Tech I work with
 
